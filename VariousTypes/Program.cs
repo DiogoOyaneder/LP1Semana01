@@ -21,6 +21,15 @@ namespace VariousTypes
             Console.WriteLine(star);
             Console.WriteLine(horse);
             Console.WriteLine(exclamation2);
+
+            double numb_double = 3.6483267;
+            float numb_float = 5.2567f;
+            decimal numb_decimal = 6.43273m;
+            Console.WriteLine(numb_double);
+            Console.WriteLine(numb_float);
+            Console.WriteLine(numb_decimal);
+
+
         }
     }
 }
