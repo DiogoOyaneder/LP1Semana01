@@ -29,6 +29,11 @@ namespace VariousTypes
             Console.WriteLine(numb_float);
             Console.WriteLine(numb_decimal);
 
+            bool condition_T = true;
+            bool condition_F = false;
+            Console.WriteLine(condition_T);
+            Console.WriteLine(condition_F);
+
 
         }
     }
