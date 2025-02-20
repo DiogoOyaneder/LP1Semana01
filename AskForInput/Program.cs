@@ -4,9 +4,12 @@ namespace AskForInput
 {
     public class Program
     {
+        //Program Starts Here
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello LP1!");
+            Console.WriteLine("Inserir número intiero");
+            int n_int = int.Parse(Console.ReadLine());
+            
         }
     }
 }
