@@ -17,6 +17,10 @@ namespace Percentagem
            string s2 = $"{n_float2,10:p2}";
            string s3 = $"{n_float3,10:p2}";
            string s4 = $"{n_float4,10:p2}";
+           Console.WriteLine(s1);
+           Console.WriteLine(s2);
+           Console.WriteLine(s3);
+           Console.WriteLine(s4);
         }
     }
 }
